@@ -1,11 +1,10 @@
 ---
 # Change these five lines as soon as you copy this starter.
-title: Your Essay Title
-author: Your Name
+title: Bandelier Hall East
+author: Caleb J. Brock
 category: Starter Essay                  # change to a category from the student guide
-header-image: sample-archive-photo.jpg   # the filename of your own image
-header-caption: Replace with where your header image came from. Plain text only, no links.
-
+header-image: bandelier-hall-1960s.jpg   # the filename of your own image
+header-caption: University of New Mexico Digital Collections, Center for Southwest Research
 # Fill these in later, once your research is under way.
 card-description: Replace this with two sentences that summarize the story your essay tells and why it matters.
 start:                                   # the year your story begins, shown on the map
