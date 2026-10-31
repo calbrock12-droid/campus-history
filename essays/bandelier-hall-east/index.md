@@ -110,9 +110,11 @@ Explain what the document says, what it does not say, and how it fits the story.
 End by returning to the present. How should readers see this campus place, person, organization, object, or event differently after reading your essay? Point to continued use, memory, loss, gaps in the archive, or campus change rather than announcing a conclusion.
 
 {% capture bibliography %}
-- Replace this with your first source. Include enough detail that someone else could find it: collection name, box, and folder for archival material.
-- Replace this with your second source.
-- Replace this with your third source.
+University of New Mexico Newsroom, “2018 UNM Holiday Ornament Hits Bookstore Shelves.” UNM Newsroom article
+UNM Department of Geography and Environmental Studies, “Bandelier Hall East Renovation” (2018). Renovation updates
+University of New Mexico, “UNM Building List by Campus, by Building Name.” Official building inventory
+UNM Board of Regents Finance and Facilities Committee, “Bandelier Hall East — Fire Alarm & Protection Addition” (October 18, 2023). 2023 project documentation
+UNM Board of Regents, “Bandelier Hall East Interior Renovations” (May 2024). 2024 Board of Regents documentation- Replace this with your second source.
 {% endcapture %}
 
 {% include typography/bibliography.html
